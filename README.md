@@ -8,3 +8,6 @@ Author URI: JasonLusk.com
 GIT URI: https://github.com/mpalpha/wp_custom_query_shortcode.git  
 
 #####Notice: currently tested and in use with a custom timber(https://github.com/jarednova/timber) based WordPress theme.
+
+#####Usage: 
+    [query query="showposts=100&post_type=page&post_parent=453" pagination="false" content_template="loop"]
